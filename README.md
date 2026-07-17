@@ -1,0 +1,1 @@
+# masuvpn-config
